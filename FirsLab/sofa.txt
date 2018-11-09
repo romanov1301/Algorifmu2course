@@ -1,0 +1,10 @@
+30, 40 , Red, Dyvan
+50, 60, Red, Dyvan
+20, 34, Red, Dyvan
+34, 23, Red, Dyvan
+32, 12, Red, Dyvan
+32, 15, Red, Dyvan
+74, 12, Red, Dyvan
+89, 43, Red, Dyvan
+23, 32, Red, Dyvan
+32, 13, Red, Dyvan
